@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.Controller">
+    <children>
+        <Button fx:id="saveButton" layoutX="14.0" layoutY="399.0" mnemonicParsing="false" onAction="#createSaveFile" prefHeight="25.0" prefWidth="121.0" text="Create new save file" />
+        <Button fx:id="loadButton" layoutX="140.0" layoutY="399.0" mnemonicParsing="false" onAction="#loadSavefile" prefHeight="25.0" prefWidth="121.0" text="Load save file" />
+        <Button fx:id="deleteButton" layoutX="269.0" layoutY="399.0" mnemonicParsing="false" onAction="#deleteSavefile" prefHeight="25.0" prefWidth="121.0" text="Delete" />
+        <TextField fx:id="saveFileNameText" layoutX="14.0" layoutY="433.0" prefHeight="25.0" prefWidth="377.0" promptText="Savefile name" />
+        <Label layoutX="341.0" layoutY="478.0" text="© Terkea" />
+        <TableView fx:id="savesTableView" prefHeight="386.0" prefWidth="400.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+            <columns>
+                <TableColumn fx:id="nameColumn" prefWidth="251.0" text="Save file name" />
+                <TableColumn fx:id="dataColumn" prefWidth="148.0" text="Created at" />
+            </columns>
+        </TableView>
+        <Label fx:id="errorLabel" layoutX="14.0" layoutY="461.0" prefHeight="17.0" prefWidth="377.0" textFill="RED" />
+    </children>
+</AnchorPane>

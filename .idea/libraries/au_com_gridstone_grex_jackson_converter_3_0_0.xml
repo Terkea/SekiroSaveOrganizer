@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="au.com.gridstone:grex-jackson-converter:3.0.0" type="repository">
+    <properties maven-id="au.com.gridstone:grex-jackson-converter:3.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/au/com/gridstone/grex-jackson-converter/3.0.0/grex-jackson-converter-3.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/au/com/gridstone/grex/3.0.0/grex-3.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava/1.0.10/rxjava-1.0.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.4.4/jackson-databind-2.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.4.4/jackson-core-2.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
