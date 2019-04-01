@@ -8,7 +8,278 @@
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saves/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/saves/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.terkea" beforeDir="false" afterPath="$PROJECT_DIR$/config.terkea" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/SekiroSaveOrganizer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/SekiroSaveOrganizer.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/SekiroSaveOrganizer.jnlp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer.jnlp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/SekiroSaveOrganizer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/SekiroSaveOrganizer.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-console-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-datetime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-debug-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-errorhandling-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-file-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-file-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-file-l2-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-handle-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-interlocked-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-libraryloader-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-localization-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-memory-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-namedpipe-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-processenvironment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-processthreads-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-processthreads-l1-1-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-profile-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-rtlsupport-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-synch-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-synch-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-sysinfo-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-timezone-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-core-util-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-conio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-convert-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-environment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-filesystem-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-locale-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-math-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-multibyte-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-private-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-process-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-runtime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-stdio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-time-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/api-ms-win-crt-utility-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/app/SekiroSaveOrganizer.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/app/SekiroSaveOrganizer.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/app/config.terkea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/app/grex-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/app/grex-jackson-converter-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/app/jackson-annotations-2.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/app/jackson-core-2.4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/app/jackson-databind-2.4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/app/rxjava-1.0.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/app/savefiles.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/app/saves/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/msvcp140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/msvcr100.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/packager.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/COPYRIGHT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/THIRDPARTYLICENSEREADME-JAVAFX.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/THIRDPARTYLICENSEREADME.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/Welcome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/JAWTAccessBridge-64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/JavaAccessBridge-64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/WindowsAccessBridge-64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-console-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-datetime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-debug-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-errorhandling-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-file-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-file-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-file-l2-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-handle-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-interlocked-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-libraryloader-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-localization-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-memory-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-namedpipe-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-processenvironment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-processthreads-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-processthreads-l1-1-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-profile-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-synch-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-synch-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-sysinfo-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-timezone-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-core-util-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-conio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-convert-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-environment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-filesystem-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-locale-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-math-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-multibyte-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-private-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-process-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-runtime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-stdio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-time-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/api-ms-win-crt-utility-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/attach.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/awt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/bci.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/concrt140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/dcpr.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/decora_sse.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/deploy.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/dt_shmem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/dt_socket.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/fontmanager.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/fxplugins.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/glass.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/glib-lite.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/gstreamer-lite.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/hprof.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/instrument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/j2pcsc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/j2pkcs11.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/jaas_nt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/java.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/java_crw_demo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/javafx_font.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/javafx_font_t2k.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/javafx_iio.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/jawt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/jdwp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/jfr.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/jfxmedia.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/jfxwebkit.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/jli.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/jpeg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/jsdt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/jsound.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/jsoundds.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/kcms.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/lcms.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/management.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/mlib_image.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/msvcp140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/msvcr100.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/net.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/nio.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/npt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/plugin2/msvcr100.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/plugin2/npjp2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/prism_common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/prism_d3d.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/prism_sw.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/resource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/sawindbg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/server/Xusage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/server/classes.jsa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/server/jvm.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/splashscreen.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/sunec.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/sunmscapi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/t2k.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/ucrtbase.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/unpack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/vcruntime140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/verify.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/w2k_lsa_auth.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/bin/zip.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/accessibility.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/amd64/jvm.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/calendars.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/charsets.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/classlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/cmm/CIEXYZ.pf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/cmm/GRAY.pf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/cmm/LINEAR_RGB.pf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/cmm/PYCC.pf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/cmm/sRGB.pf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/content-types.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/currency.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/ext/access-bridge-64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/ext/cldrdata.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/ext/dnsns.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/ext/jaccess.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/ext/jfxrt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/ext/localedata.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/ext/meta-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/ext/nashorn.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/ext/sunec.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/ext/sunjce_provider.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/ext/sunmscapi.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/ext/sunpkcs11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/ext/zipfs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/flavormap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/fontconfig.bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/fontconfig.properties.src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/fonts/LucidaBrightDemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/fonts/LucidaBrightDemiItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/fonts/LucidaBrightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/fonts/LucidaBrightRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/fonts/LucidaSansDemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/fonts/LucidaSansRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/fonts/LucidaTypewriterBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/fonts/LucidaTypewriterRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/hijrah-config-umalqura.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/images/cursors/cursors.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/images/cursors/invalid32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/images/cursors/win32_CopyDrop32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/images/cursors/win32_CopyNoDrop32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/images/cursors/win32_LinkDrop32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/images/cursors/win32_LinkNoDrop32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/images/cursors/win32_MoveDrop32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/images/cursors/win32_MoveNoDrop32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/javafx.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/javaws.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/jce.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/jfr.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/jfr/default.jfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/jfr/profile.jfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/jfxswt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/jsse.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/jvm.hprof.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/management-agent.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/management/jmxremote.access" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/management/jmxremote.password.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/management/management.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/management/snmp.acl.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/meta-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/net.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/plugin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/psfont.properties.ja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/psfontj2d.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/resources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/rt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/security/blacklist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/security/blacklisted.certs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/security/cacerts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/security/java.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/security/java.security" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/security/javaws.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/security/policy/limited/US_export_policy.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/security/policy/limited/local_policy.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/security/policy/unlimited/US_export_policy.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/security/policy/unlimited/local_policy.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/security/trusted.libraries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/sound.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/tzdb.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/runtime/lib/tzmappings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/ucrtbase.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/vcruntime140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/grex-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/grex-jackson-converter-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/jackson-annotations-2.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/jackson-core-2.4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/jackson-databind-2.4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/rxjava-1.0.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/grex-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/grex-jackson-converter-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/jackson-annotations-2.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/jackson-core-2.4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/jackson-databind-2.4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/rxjava-1.0.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/controller/DefaultLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/controller/DefaultLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/view/SelectLocation.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/view/SelectLocation.fxml" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,11 +339,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/saves/test.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/controller/DefaultLocation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.terkea">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/savefiles.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -104,12 +402,12 @@
         <option value="$PROJECT_DIR$/src/sample/model/PropertiesFile.java" />
         <option value="$PROJECT_DIR$/src/app/model/Savefile.java" />
         <option value="$PROJECT_DIR$/src/app/model/SavefileJSON.java" />
-        <option value="$PROJECT_DIR$/src/app/controller/DefaultLocation.java" />
         <option value="$PROJECT_DIR$/src/app/controller/Controller.java" />
-        <option value="$PROJECT_DIR$/config.terkea" />
         <option value="$PROJECT_DIR$/savefiles.json" />
         <option value="$PROJECT_DIR$/out/artifacts/SekiroSaveOrganizer/bundles/SekiroSaveOrganizer/app/saves/test" />
         <option value="$PROJECT_DIR$/saves/README.md" />
+        <option value="$PROJECT_DIR$/src/app/controller/DefaultLocation.java" />
+        <option value="$PROJECT_DIR$/config.terkea" />
       </list>
     </option>
   </component>
@@ -137,11 +435,6 @@
             <path>
               <item name="SekiroSaveOrganizer" type="b2602c69:ProjectViewProjectNode" />
               <item name="SekiroSaveOrganizer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SekiroSaveOrganizer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SekiroSaveOrganizer" type="462c0819:PsiDirectoryNode" />
-              <item name="saves" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SekiroSaveOrganizer" type="b2602c69:ProjectViewProjectNode" />
@@ -322,9 +615,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.2238806" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.2260128" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -450,31 +742,10 @@
     <entry file="file://$PROJECT_DIR$/SekiroSaveOrganizer.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/controller/DefaultLocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/savefiles.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/controller/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="46" selection-start-line="46" selection-end-line="70" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.terkea">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -495,7 +766,28 @@
     <entry file="file://$PROJECT_DIR$/saves/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/controller/DefaultLocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.terkea">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/savefiles.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>

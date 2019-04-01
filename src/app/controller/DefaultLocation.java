@@ -63,13 +63,7 @@ public class DefaultLocation {
 
     @FXML
     void changeStage(ActionEvent event) throws IOException {
-        Parent registerParent = FXMLLoader.load(getClass().getResource("../view/app.fxml"));
-        Scene registerScene = new Scene(registerParent);
-
-        Stage window = (Stage)((Node)event.getSource()).getScene().getWindow();
-        window.hide();
-        window.setScene(registerScene);
-        window.show();
+        System.exit(0);
     }
 
 }
