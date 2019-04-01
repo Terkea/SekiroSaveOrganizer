@@ -1,4 +1,5 @@
 # Sekiro Save Organizer
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6f5bbf9a7c844921a20e390063207a8f)](https://app.codacy.com/app/Terkea/SekiroSaveOrganizer?utm_source=github.com&utm_medium=referral&utm_content=Terkea/SekiroSaveOrganizer&utm_campaign=Badge_Grade_Dashboard)
 [![GitHub release](https://img.shields.io/badge/release-1.0.0-blue.svg?style=flat-square)](https://github.com/Terkea/SekiroSaveOrganizer/releases/latest)
 
 
