@@ -8,7 +8,7 @@ Let's suppose at one point you would like to go backwards just to fight one boss
 
 
 ### Download
-[Download the latest release.](https://github.com/Terkea/SekiroSaveOrganizer/releases/download/1.0.0/SekiroSaveOrganizer_Compiled_for_Windows.rar)
+[Download the latest release.](https://github.com/Terkea/SekiroSaveOrganizer/releases/latest)
 
 ## Getting Started
 [![](https://i.imgur.com/4pO7Hv1.jpg)](https://github.com/Terkea/SekiroSaveOrganizer/releases/download/1.0.0/SekiroSaveOrganizer_Compiled_for_Windows.rar)
