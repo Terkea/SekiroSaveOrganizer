@@ -27,7 +27,7 @@ For example once downloaded the program it is going to ask you to pick up the ac
 
 Then the actual interface will load, where you can create, load and delete save files.
 
-The ```create new save file``` option is not related to the path from where you run the program. Which means that at one point you decide to change the location of the program your savefiles are safe.
+The ```create new save file``` option is not related to the path from where you run the program. Which means that if at one point you decide to change the location of the program your savefiles are safe.
 
 The way it works:
 It copies the savefile from %APPDATA% to the saves/savename folder.
