@@ -4,12 +4,14 @@ package app.controller;
 import app.model.PropertiesFile;
 import app.model.Savefile;
 import app.model.SavefileJSON;
+import javafx.application.HostServices;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
+import javafx.scene.input.MouseEvent;
 import jdk.jfr.events.ExceptionThrownEvent;
 
 import java.io.File;
@@ -61,6 +63,7 @@ public class Controller {
 
     @FXML
     private void initialize(){
+
         nameColumn.setCellValueFactory(cellData -> cellData.getValue().nameProperty());
         dataColumn.setCellValueFactory(cellData -> cellData.getValue().dateProperty());
 
@@ -68,6 +71,7 @@ public class Controller {
         populateServerfiles(saveFiles);
 
     }
+
 
     @FXML
     private void populateServerfiles(ObservableList<Savefile> savefilesData){

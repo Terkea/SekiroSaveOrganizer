@@ -36,7 +36,9 @@ public class DefaultLocation {
     @FXML
     void selectFile(ActionEvent event) {
         FileChooser file = new FileChooser();
-        file.setInitialDirectory(new File (System.getProperty("user.home")+ "\\AppData\\Roaming\\Sekiro"));
+        if (new File (System.getProperty("user.home")+ "\\AppData\\Roaming\\Sekiro").exists()){
+            file.setInitialDirectory(new File (System.getProperty("user.home")+ "\\AppData\\Roaming\\Sekiro"));
+        }
         FileChooser.ExtensionFilter extFilter =
                 new FileChooser.ExtensionFilter("SEKIRO savefiles (*.sl2)", "*.sl2");
         file.getExtensionFilters().add(extFilter);

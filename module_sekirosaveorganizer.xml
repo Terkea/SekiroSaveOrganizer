@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_sekirosaveorganizer" default="compile.module.sekirosaveorganizer">
+  <dirname property="module.sekirosaveorganizer.basedir" file="${ant.file.module_sekirosaveorganizer}"/>
+  
+  <property name="module.jdk.home.sekirosaveorganizer" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.sekirosaveorganizer" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.sekirosaveorganizer" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.sekirosaveorganizer" value="-encoding UTF-8 -source 8 -target 8 ${compiler.args}"/>
+  
+  <property name="sekirosaveorganizer.output.dir" value="${module.sekirosaveorganizer.basedir}/out/production/SekiroSaveOrganizer"/>
+  <property name="sekirosaveorganizer.testoutput.dir" value="${module.sekirosaveorganizer.basedir}/out/test/SekiroSaveOrganizer"/>
+  
+  <path id="sekirosaveorganizer.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="sekirosaveorganizer.module.production.classpath">
+    <path refid="${module.jdk.classpath.sekirosaveorganizer}"/>
+    <path refid="library.au.com.gridstone:grex-jackson-converter:3.0.0.classpath"/>
+  </path>
+  
+  <path id="sekirosaveorganizer.runtime.production.module.classpath">
+    <pathelement location="${sekirosaveorganizer.output.dir}"/>
+    <path refid="library.au.com.gridstone:grex-jackson-converter:3.0.0.classpath"/>
+  </path>
+  
+  <path id="sekirosaveorganizer.module.classpath">
+    <path refid="${module.jdk.classpath.sekirosaveorganizer}"/>
+    <pathelement location="${sekirosaveorganizer.output.dir}"/>
+    <path refid="library.au.com.gridstone:grex-jackson-converter:3.0.0.classpath"/>
+  </path>
+  
+  <path id="sekirosaveorganizer.runtime.module.classpath">
+    <pathelement location="${sekirosaveorganizer.testoutput.dir}"/>
+    <pathelement location="${sekirosaveorganizer.output.dir}"/>
+    <path refid="library.au.com.gridstone:grex-jackson-converter:3.0.0.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.sekirosaveorganizer">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.sekirosaveorganizer">
+    <patternset refid="excluded.from.module.sekirosaveorganizer"/>
+  </patternset>
+  
+  <path id="sekirosaveorganizer.module.sourcepath">
+    <dirset dir="${module.sekirosaveorganizer.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.sekirosaveorganizer" depends="compile.module.sekirosaveorganizer.production,compile.module.sekirosaveorganizer.tests" description="Compile module SekiroSaveOrganizer"/>
+  
+  <target name="compile.module.sekirosaveorganizer.production" depends="register.custom.compilers" description="Compile module SekiroSaveOrganizer; production classes">
+    <mkdir dir="${sekirosaveorganizer.output.dir}"/>
+    <javac2 destdir="${sekirosaveorganizer.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.sekirosaveorganizer}/javac">
+      <compilerarg line="${compiler.args.sekirosaveorganizer}"/>
+      <bootclasspath refid="sekirosaveorganizer.module.bootclasspath"/>
+      <classpath refid="sekirosaveorganizer.module.production.classpath"/>
+      <src refid="sekirosaveorganizer.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.sekirosaveorganizer"/>
+    </javac2>
+    
+    <copy todir="${sekirosaveorganizer.output.dir}">
+      <fileset dir="${module.sekirosaveorganizer.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.sekirosaveorganizer.tests" depends="register.custom.compilers,compile.module.sekirosaveorganizer.production" description="compile module SekiroSaveOrganizer; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.sekirosaveorganizer" description="cleanup module">
+    <delete dir="${sekirosaveorganizer.output.dir}"/>
+    <delete dir="${sekirosaveorganizer.testoutput.dir}"/>
+  </target>
+</project>
